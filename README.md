@@ -3,7 +3,11 @@
   ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
   ## Description 
-  A back end API for a social newtork site, that uses MongoDB database. Built using: Node.js, Express, JS, MONGODB, Mongoose and Insomnia.
+  A back end API for a social newtork site, that uses MongoDB database. Built using: Node.js, Express, JS, MONGODB, Mongoose and Insomnia..
+
+  ## Tests
+  You can see a test video of this application at the link below.
+  https://drive.google.com/file/d/1igMnLC-gx746s-1dvFnkmZTrqr9pYpYO/view
 
   ## Table of Contents
 
@@ -26,11 +30,6 @@
   ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
   <br />
   This application is covered by the ISC license.  
-
-
-  ## Tests
-  You can see a test video of this application at the link below.
-  https://drive.google.com/file/d/1igMnLC-gx746s-1dvFnkmZTrqr9pYpYO/view
 
   ## Questions
   Email me or reach out on GitHub
